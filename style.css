@@ -1,0 +1,36 @@
+.header {
+    text-align: center;
+    background-color: CornflowerBlue;
+  }
+  
+  .about-me {
+    font-size: 20px;
+    opacity: 0.75;
+    color: white;
+    background-color: CornflowerBlue;
+  }
+  li,
+  h2,
+  .title {
+    font-weight: bold;
+    background-color: CornflowerBlue;
+    color: white;
+    font-family: Verdana;
+    list-style: square;
+    text-align: left;
+  }
+  
+  h1 {
+    color: gold;
+    text-decoration: underline;
+  }
+  
+  body {
+    font-family: Georgia;
+    background-color: CornflowerBlue;
+  }
+  h6,
+  .contact {
+    color: gold;
+  }
+  
